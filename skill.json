@@ -1,0 +1,15 @@
+{
+  "name": "genpark-human-in-the-loop-approval-gate-interrupt-skill",
+  "version": "1.0.0",
+  "description": "Human-in-the-loop (HIL) approval gate and execution interrupt controller with cryptographic review tokens and diff inspection.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "hitl",
+    "approval-gate",
+    "interrupt",
+    "governance",
+    "genpark",
+    "mcp"
+  ]
+}
